@@ -34,7 +34,7 @@ Vi ser väldigt gärna att du förutom kraven för applikationen lägger din ege
 
 ## Inlämning
 
-Klona projektet och ladda upp på din Github när du är klar, skicka ett mail till sam.nydahl@smb.nu med länk dit.
+Klona projektet och ladda upp på din Github när du är klar, maila länk.
 
 # Om projektet
 
