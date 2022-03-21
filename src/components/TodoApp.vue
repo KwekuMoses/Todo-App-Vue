@@ -185,13 +185,12 @@ export default {
     filterAll() {
       this.visibility = "all"
     },
-    
+
      saveToStorage() {
        console.log(this.tasks)
        localStorage.setItem("tasks", JSON.stringify(this.tasks))
     },
   }
-  
 }
 </script>
 <style scoped>

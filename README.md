@@ -1,4 +1,4 @@
 # Brief
-    - Simpel Todo App Built in Vue.  
+    - Simple Todo App Built in Vue.  
 
 
